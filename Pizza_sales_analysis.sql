@@ -265,17 +265,17 @@ WHERE
     rnk <= 3;
 
 /*
-Category		Name					Total_revenue
-Chicken		The Thai Chicken Pizza			43434	
-Chicken		The Barbecue Chicken Pizza		42768	
-Chicken		The California Chicken Pizza	41410	
-Classic		The Classic Deluxe Pizza		38180	
-Classic		The Hawaiian Pizza				32273	
-Classic		The Pepperoni Pizza				30162	
-Supreme		The Spicy Italian Pizza			34831	
-Supreme		The Italian Supreme Pizza		33477	
-Supreme		The Sicilian Pizza				30940	
-Veggie		The Four Cheese Pizza			32266	
-Veggie		The Mexicana Pizza				26781	
-Veggie		The Five Cheese Pizza			26066	
+Category		Name					     Total_revenue
+Chicken		The Thai Chicken Pizza			    43434	
+Chicken		The Barbecue Chicken Pizza		    42768	
+Chicken		The California Chicken Pizza	    41410	
+Classic		The Classic Deluxe Pizza		    38180	
+Classic		The Hawaiian Pizza				    32273	
+Classic		The Pepperoni Pizza				    30162	
+Supreme		The Spicy Italian Pizza			    34831	
+Supreme		The Italian Supreme Pizza		    33477	
+Supreme		The Sicilian Pizza				    30940	
+Veggie		The Four Cheese Pizza			    32266	
+Veggie		The Mexicana Pizza				    26781	
+Veggie		The Five Cheese Pizza			    26066	
 */
